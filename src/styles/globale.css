@@ -1,0 +1,6 @@
+.arabicDirection {
+  direction: rtl !important;
+}
+.boldFont {
+  font-weight: bold;
+}

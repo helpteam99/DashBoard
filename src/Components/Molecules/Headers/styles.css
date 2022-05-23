@@ -1,0 +1,48 @@
+.header{
+    box-shadow: 0px  1px 10px rgb(87, 177, 255);
+    background-color: rgb(58, 116, 167);
+  
+  }
+  .headerSearch{
+  
+    border-radius:30px  !important;
+  }
+  
+  .headerLable{
+    font-size:12px;
+    line-height: 20px;
+    color: white;
+  }
+  .userPosition{
+    font-weight: bold;
+    
+  }
+  .userName{
+    font-weight:lighter;
+  }
+  .FlagsSelect{
+ 
+  
+    width: 50px;
+    height: 30px;
+ 
+   
+
+   
+  }
+  .ReactFlagsSelect-module_selectBtn__19wW7{
+    border:none !important;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 7px;
+    width: 70%;
+    background-color: #ccc;
+    
+    
+  }
+  .ReactFlagsSelect-module_selectOptions__3LNBJ{
+    overflow: hidden ;
+    
+  }
+ 
+ 

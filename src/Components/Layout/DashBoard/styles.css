@@ -1,0 +1,12 @@
+.content{
+margin-top: 20px;
+display: flex;
+justify-content: center;
+height: 100%;
+
+}
+.lagout{
+    background-color: red !important    ;
+    width: 100% !important;
+    height: 100% !important;
+}

@@ -1,0 +1,27 @@
+.inputGroupTitle {
+  text-align: right;
+}
+
+.addworkerformContainer {
+  direction: rtl;
+  overflow-y: scroll;
+  height: 400px;
+}
+
+.addworkerform {
+  direction: ltr;
+  padding: 10px;
+  width: 75%;
+}
+.itemLayout {
+  width: 100%;
+}
+#personalInfo {
+  margin-bottom: 5px;
+}
+#accountInfo {
+  margin-bottom: 5px;
+}
+#locationInfo {
+  margin-bottom: 5px;
+}

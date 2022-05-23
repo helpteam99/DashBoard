@@ -1,0 +1,24 @@
+#TaskCardNumericTitle {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+#TaskCardNumeric .ant-card-head {
+  color: whitesmoke;
+  background-color: rgb(58, 116, 167);
+
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
+#TaskCardNumeric .ant-card-head-wrapper {
+  background-color: rgb(58, 116, 167);
+}
+
+#TaskCounter {
+  font-weight: bold;
+  font-size: 36px;
+}
+#TaskCardNumeric {
+  border-radius: 20px !important;
+}
